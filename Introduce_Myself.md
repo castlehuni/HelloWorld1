@@ -32,4 +32,4 @@ Introduce Myself(MarkDown Study)
   + 축구: 토트넘 훗스퍼
 
 #### 가장 기억에 남는 여행지 중 하나인 부산 태종대 사진
-<img src="https://www.lavalsehotel.co.kr/storage/app/public/lavalse/contents/documents/ko/3aa79af3-065d-4b69-bd49-22c6ba5cdcd3/db/6e/201909200945095d71fc83087891b84263425dd8556be9139194ba.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="Taejongdae"></img><br/>
+![Alt text]("https://www.lavalsehotel.co.kr/storage/app/public/lavalse/contents/documents/ko/3aa79af3-065d-4b69-bd49-22c6ba5cdcd3/db/6e/201909200945095d71fc83087891b84263425dd8556be9139194ba.jpg")
