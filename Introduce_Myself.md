@@ -26,8 +26,12 @@ Introduce Myself(MarkDown Study)
   + 가장 기억에 남는 여행지는 부산인데 아무래도 제일 처음 혼자 여행을 갔던 곳이기도 하고  
     처음 혼자 여행을 갔기에 고생도 했지만 그만큼에 뿌듯함도 있었고 또 방문한 여행지들도  
     모두 좋았기 때문에 기억에 남는 여행지이다. 
-  + ![Alt text](https://www.lavalsehotel.co.kr/storage/app/public/lavalse/contents/documents/ko/3aa79af3-065d-4b69-bd49-22c6ba5cdcd3/db/6e/201909200945095d71fc83087891b84263425dd8556be9139194ba.jpg)
+    
 3. 응원하는 스포츠 팀
   + 야구: 한화이글스
   + 배구: KGC 인삼공사
   + 축구: 토트넘 훗스퍼
+
+#### 가장 기억에 남는 여행지 중 하나인 부산 태종대 사진
+![Alt text](https://www.lavalsehotel.co.kr/storage/app/public/lavalse/contents/documents/ko/3aa79af3-065d-4b69-bd49-22c6ba5cdcd3/db/6e/201909200945095d71fc83087891b84263425dd8556be9139194ba.jpg)
+<img src="https://www.lavalsehotel.co.kr/storage/app/public/lavalse/contents/documents/ko/3aa79af3-065d-4b69-bd49-22c6ba5cdcd3/db/6e/201909200945095d71fc83087891b84263425dd8556be9139194ba.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="Taejongdae"></img><br/>
